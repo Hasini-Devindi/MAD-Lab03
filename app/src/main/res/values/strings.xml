@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L03</string>
+    <string name="button">button_send</string>
+    <string name="button_send">button_send</string>
+    <string name="edit_message">edit_message</string>
+    <string name="editText">edit_message</string>
+    <string name="send">Send</string>
+    <string name="Entermessage">Entermessage</string>
+</resources>
